@@ -1,125 +1,71 @@
-# 👋 Hey, I'm Elias Kusse!
+# 💻 ELIAS KUSSE | DEVELOPER
 
 <div align="center">
 
-### 💻 Computer Science & Engineering Student | Full-Stack Developer in Progress
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=ELIAS%20KUSSE&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
 
-**Building ideas into real-world digital experiences.**
+### 🚀 Turning Ideas Into Digital Reality
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A5CF6&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Frontend+%26+Backend+Developer;Always+Learning+New+Technologies" />
+💜 Computer Science & Engineering Student
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8A5CF6&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!;Full-Stack+Developer+in+Progress;Learning+%7C+Building+%7C+Growing)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## ⚡ About Me
+## ⚡ ABOUT ME
 
-Hello! I'm **Elias Kusse**, a Computer Science and Engineering student passionate about software development and modern web technologies.
+Hello! I'm **Elias Kusse**, a Computer Science and Engineering student passionate about programming, technology, and building modern applications.
 
 - 🎓 Computer Science & Engineering Student
-- 💻 Interested in Full-Stack Development
-- 🌱 Constantly learning and improving my coding skills
+- 💻 Aspiring Full-Stack Developer
 - 🚀 Building practical web applications
-- 🎯 My goal is to become a professional Full-Stack Developer
+- 🌱 Always learning new technologies
+- 🎯 Focused on becoming a professional developer
 
----
+## 🧠 MY SKILLS
 
-## 🧠 What I Do
+- 🎨 Frontend Development
+- ⚙️ Backend Development
+- 🗄️ Database Management
+- 🌐 Full-Stack Web Development
+- 🧩 Problem Solving
 
-| Area | Description |
-|---|---|
-| 🎨 Frontend Development | Creating responsive and interactive interfaces |
-| ⚙️ Backend Development | Building server-side applications |
-| 🗄️ Database Management | Managing data using MySQL |
-| 🔧 Web Development | Developing full-stack web applications |
-| 🧩 Problem Solving | Improving logical thinking and coding skills |
-
----
-
-## 🛠️ Technologies & Tools
-
-### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,php" />
-
-### 🚀 Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### 🗄️ Database
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-### 🔧 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
----
-
-## 📊 GitHub Analytics
+## 🛠️ TECHNOLOGIES & TOOLS
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ella-kusse&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ella-kusse&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,express,mysql,git,github,vscode&perline=5" />
 
 </div>
 
----
-
-## 🔥 Contribution Streak
+## 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ella-kusse&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=ella-kusse&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ella-kusse&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://streak-stats.demolab.com?user=ella-kusse&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
----
-
-## 📈 Contribution Activity
+## 🌐 CONNECT WITH ME
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ella-kusse&theme=tokyo-night&hide_border=true" />
+[![Telegram](https://img.shields.io/badge/Telegram-Connect-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
 
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
 
----
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_PROFILE)
 
-## 🚀 Featured Project
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_NUMBER)
 
-### 💜 Full-Stack Developer Portfolio
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
 
-A personal portfolio project showcasing my development skills.
-
-- Responsive user interface
-- Admin authentication
-- Admin dashboard
-- Project management (CRUD)
-- Contact form
-- MySQL database integration
-
----
-
-## 🎯 My Goals
-
-- 🚀 Become a professional Full-Stack Developer
-- 🌍 Build useful real-world applications
-- 💡 Master modern web technologies
-- 🤝 Collaborate with other developers
-- 📚 Contribute to open-source projects
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="mailto:eliaskusse9@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/ella-kusse">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+📧 **Email:** eliaskusse9@gmail.com
 
 </div>
 
@@ -127,8 +73,10 @@ A personal portfolio project showcasing my development skills.
 
 <div align="center">
 
-### 💜 Thanks for visiting my GitHub profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:6A11CB&height=100&section=footer" width="100%" />
 
-**Keep Learning • Keep Building • Keep Growing 🚀**
+### 💜 KEEP LEARNING. KEEP BUILDING. KEEP GROWING.
+
+⭐ Thanks for visiting my profile!
 
 </div>
