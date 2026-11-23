@@ -59,11 +59,7 @@
 </div>
 ---
 
-### 🌱 Currently Exploring
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,linux,aws,react,mongodb&theme=dark" />
 
 </div>
 
