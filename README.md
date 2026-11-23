@@ -1,59 +1,134 @@
-# 👋 Hi, I'm Elias Kusse
+# 👋 Hey, I'm Elias Kusse!
 
-### 💻 Computer Science & Engineering Student | Aspiring Full-Stack Developer
+<div align="center">
 
-Welcome to my GitHub profile! I'm passionate about building modern, responsive, and user-friendly web applications.
+### 💻 Computer Science & Engineering Student | Full-Stack Developer in Progress
 
-## 🙋‍♂️ About Me
+**Building ideas into real-world digital experiences.**
 
-- 🎓 Computer Science & Engineering Student
-- 💻 Aspiring Full-Stack Developer
-- 🌱 Always learning new technologies and improving my skills
-- 🚀 Interested in building real-world applications
-- 🎯 Focused on becoming a professional software developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A5CF6&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Frontend+%26+Backend+Developer;Always+Learning+New+Technologies" />
 
-## 🧠 Skills
-
-- Frontend Development
-- Backend Development
-- Database Management
-- Responsive Web Design
-- Problem Solving
-- CRUD Operations
-
-## 🛠️ Technologies
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**Database & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ella-kusse&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ella-kusse&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ella-kusse&theme=tokyonight&hide_border=true)
-
-## 📫 Contact Me
-
-- 📧 Email: [eliaskusse9@gmail.com](mailto:eliaskusse9@gmail.com)
-- 🐙 GitHub: [@ella-kusse](https://github.com/ella-kusse)
+</div>
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+## ⚡ About Me
+
+Hello! I'm **Elias Kusse**, a Computer Science and Engineering student passionate about software development and modern web technologies.
+
+- 🎓 Computer Science & Engineering Student
+- 💻 Interested in Full-Stack Development
+- 🌱 Constantly learning and improving my coding skills
+- 🚀 Building practical web applications
+- 🎯 My goal is to become a professional Full-Stack Developer
+
+---
+
+## 🧠 What I Do
+
+| Area | Description |
+|---|---|
+| 🎨 Frontend Development | Creating responsive and interactive interfaces |
+| ⚙️ Backend Development | Building server-side applications |
+| 🗄️ Database Management | Managing data using MySQL |
+| 🔧 Web Development | Developing full-stack web applications |
+| 🧩 Problem Solving | Improving logical thinking and coding skills |
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,php" />
+
+### 🚀 Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+### 🔧 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ella-kusse&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ella-kusse&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ella-kusse&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ella-kusse&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+### 💜 Full-Stack Developer Portfolio
+
+A personal portfolio project showcasing my development skills.
+
+- Responsive user interface
+- Admin authentication
+- Admin dashboard
+- Project management (CRUD)
+- Contact form
+- MySQL database integration
+
+---
+
+## 🎯 My Goals
+
+- 🚀 Become a professional Full-Stack Developer
+- 🌍 Build useful real-world applications
+- 💡 Master modern web technologies
+- 🤝 Collaborate with other developers
+- 📚 Contribute to open-source projects
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:eliaskusse9@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/ella-kusse">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Thanks for visiting my GitHub profile!
+
+**Keep Learning • Keep Building • Keep Growing 🚀**
+
+</div>
