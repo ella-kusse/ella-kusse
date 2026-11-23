@@ -30,22 +30,33 @@
 
 ### 💻 Core Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,cpp,c&theme=dark" />
 
 ### ⚡ Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,bootstrap,tailwind,jquery&theme=dark" />
 
 ### 🗄️ Databases, Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,redis,docker,aws,vercel,netlify,nginx&theme=dark" />
 
 ### 🔧 Tools, Editors & Design
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma,photoshop,linux,bash,npm,yarn,webpack,vite,notion&theme=dark" />
+
+### 🌐 Development Platforms
+
+<img src="https://skillicons.dev/icons?i=stackoverflow,discord,md,githubactions&theme=dark" />
 
 </div>
 
+---
+
+<div align="center">
+
+**⚡ BUILD • CREATE • INNOVATE • REPEAT ⚡**
+
+</div>
 ---
 
 ### 🌱 Currently Exploring
