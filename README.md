@@ -24,24 +24,38 @@
 - 🌐 Full-Stack Web Development
 - 🧩 Problem Solving
 
-## 🛠️ TECHNOLOGIES & TOOLS
+## 🛠️ TECH STACK & TECHNOLOGIES
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,express,mysql,git,github,vscode&perline=5" />
+### 💻 Core Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark" />
+
+### ⚡ Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+
+### 🗄️ Databases, Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+
+### 🔧 Tools, Editors & Design
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
 
-## 📊 GITHUB ANALYTICS
+---
+
+### 🌱 Currently Exploring
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ella-kusse&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ella-kusse&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://streak-stats.demolab.com?user=ella-kusse&theme=tokyonight&hide_border=true" width="70%" />
+<img src="https://skillicons.dev/icons?i=docker,linux,aws,react,mongodb&theme=dark" />
 
 </div>
+
 
 ## 🌐 CONNECT WITH ME
 
