@@ -14,15 +14,7 @@
 
 ---
 
-## ⚡ ABOUT ME
 
-Hello! I'm **Elias Kusse**, a Computer Science and Engineering student passionate about programming, technology, and building modern applications.
-
-- 🎓 Computer Science & Engineering Student
-- 💻 Aspiring Full-Stack Developer
-- 🚀 Building practical web applications
-- 🌱 Always learning new technologies
-- 🎯 Focused on becoming a professional developer
 
 ## 🧠 MY SKILLS
 
@@ -66,7 +58,15 @@ Hello! I'm **Elias Kusse**, a Computer Science and Engineering student passionat
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
 
 📧 **Email:** eliaskusse9@gmail.com
+   ## ⚡ ABOUT ME
 
+Hello! I'm **Elias Kusse**, a Computer Science and Engineering student passionate about programming, technology, and building modern applications.
+
+- 🎓 Computer Science & Engineering Student
+- 💻 Aspiring Full-Stack Developer
+- 🚀 Building practical web applications
+- 🌱 Always learning new technologies
+- 🎯 Focused on becoming a professional developer
 </div>
 
 ---
